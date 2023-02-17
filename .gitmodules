@@ -10,3 +10,6 @@
 [submodule "submodules/simde"]
 	path = submodules/simde
 	url = https://github.com/simd-everywhere/simde.git
+[submodule "submodules/chopper"]
+	path = submodules/chopper
+	url = https://github.com/seqan/chopper.git
